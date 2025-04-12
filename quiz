@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Essentials - Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <h1>Quiz: AI Essentials</h1>
+        <form id="quizForm">
+            <div class="question">
+                <p>1. Which of the following best describes Machine Learning?</p>
+                <label><input type="radio" name="q1" value="a"> a) The ability of machines to understand human language.</label><br>
+                <label><input type="radio" name="q1" value="b"> b) The ability of machines to "see" and interpret images.</label><br>
+                <label><input type="radio" name="q1" value="c"> c) A type of AI where systems learn from data without explicit programming.</label><br>
+                <label><input type="radio" name="q1" value="d"> d) Automating repetitive tasks using computers.</label><br>
+            </div>
+
+            <div class="

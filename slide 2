@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Essentials - Slide 2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="slide">
+        <h1>Welcome & Why AI Matters</h1>
+        <ul>
+            <li>AI is no longer science fiction – it's impacting our daily work.</li>
+            <li>Understanding basic AI can help you work smarter, not harder.</li>
+            <li>This course will introduce key concepts and how AI can improve workflows.</li>
+            <li>Crucially, we'll also cover how to keep company data safe in the age of AI.</li>
+        </ul>
+    </div>
+    <div class="navigation">
+        <button onclick="window.location.href='slide3.html'">Next</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

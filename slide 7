@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Essentials - Slide 7</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="slide">
+        <h1>Automation with AI</h1>
+        <p>AI can automate repetitive and rule-based tasks, freeing up human employees for more strategic work.</p>
+        <p><strong>Examples:</strong> Data entry, report generation, scheduling.</p>
+        <p><strong>Benefit for Workflows:</strong> Increased efficiency, reduced errors, improved productivity.</p>
+        <img src="ai-automation.png" alt="AI Automation Graphic">
+    </div>
+    <div class="navigation">
+        <button onclick="window.location.href='slide8.html'">Next</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

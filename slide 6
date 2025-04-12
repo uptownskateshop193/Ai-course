@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Essentials - Slide 6</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="slide">
+        <h1>Computer Vision: Seeing and Understanding Images</h1>
+        <p>Computer vision allows computers to "see" and interpret images and videos.</p>
+        <p><strong>Examples:</strong> Image recognition, facial recognition, quality control in manufacturing.</p>
+        <p><strong>Benefit for Workflows:</strong> Automating visual inspections, organizing images, enhancing security.</p>
+        <img src="computer-vision.png" alt="Computer Vision Graphic">
+    </div>
+    <div class="navigation">
+        <button onclick="window.location.href='slide7.html'">Next</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

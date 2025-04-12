@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Essentials - Slide 13</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="slide">
+        <h1>Reporting Concerns and Getting Help</h1>
+        <ul>
+            <li><strong>How to report:</strong> Contact the IT Security Department or your direct manager.</li>
+            <li><strong>Questions about AI usage:</strong> Refer to the AI Fair Use Policy or contact the AI Implementation Team.</li>
+            <li>Emphasize the importance of vigilance and proactive reporting.</li>
+        </ul>
+        <p><strong>Contact Information:</strong></p>
+        <p>IT Security Department: <a href="mailto:security@yourcompany.com">security@yourcompany.com</a></p>
+        <p>AI Implementation Team: <a href="mailto:ai-team@yourcompany.com">ai-team@yourcompany.com</a></p>
+    </div>
+    <div class="navigation">
+        <button onclick="window.location.href='slide14.html'">Next</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

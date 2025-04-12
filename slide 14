@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Essentials - Slide 14</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="slide">
+        <h1>Conclusion & Next Steps</h1>
+        <ul>
+            <li>AI offers significant opportunities to improve workflows.</li>
+            <li>Data security is a critical responsibility when using AI.</li>
+            <li>Familiarize yourself with our AI Fair Use Policy.</li>
+            <li>Continue to learn and ask questions as AI evolves.</li>
+        </ul>
+        <p>Thank you for completing the AI Essentials course!</p>
+        <img src="your-logo.png" alt="Laibyrinth Logo">
+    </div>
+    <div class="navigation">
+        <button onclick="window.location.href='quiz.html'">Take the Quiz</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

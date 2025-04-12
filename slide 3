@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Essentials - Slide 3</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="slide">
+        <h1>What Exactly is AI?</h1>
+        <p>AI refers to the ability of machines to perform tasks that typically require human intelligence.</p>
+        <p><strong>Simple Analogy:</strong> Think of a very smart assistant that can learn and solve problems.</p>
+        <p><strong>Key Areas:</strong> Learning, Problem-solving, Decision-making.</p>
+        <img src="ai-concept.png" alt="AI Concept Graphic">
+    </div>
+    <div class="navigation">
+        <button onclick="window.location.href='slide4.html'">Next</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

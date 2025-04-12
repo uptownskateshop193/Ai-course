@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Essentials - Slide 9</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="slide">
+        <h1>The Importance of Data Privacy</h1>
+        <p>When using AI, especially with company data, protecting privacy is paramount.</p>
+        <ul>
+            <li><strong>Key Principles:</strong> Transparency, consent, purpose limitation, data minimization.</li>
+            <li><strong>Consequences of Breaches:</strong> Legal penalties, reputational damage, loss of customer trust.</li>
+        </ul>
+        <img src="data-privacy.png" alt="Data Privacy Graphic">
+    </div>
+    <div class="navigation">
+        <button onclick="window.location.href='slide10.html'">Next</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

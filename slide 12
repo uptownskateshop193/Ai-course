@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Essentials - Slide 12</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="slide">
+        <h1>Our Company's AI Fair Use Policy (Brief Overview)</h1>
+        <p>Here's a brief overview of our company's guidelines for the responsible and ethical use of AI.</p>
+        <ul>
+            <li><strong>Key Areas Covered:</strong> Acceptable use of AI tools, data handling guidelines, reporting concerns.</li>
+        </ul>
+        <p><strong>Action Item:</strong> Employees will receive a detailed version of the policy separately.</p>
+        <img src="policy-icon.png" alt="Policy Icon">
+    </div>
+    <div class="navigation">
+        <button onclick="window.location.href='slide13.html'">Next</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

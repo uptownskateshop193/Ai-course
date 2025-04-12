@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Essentials - Slide 1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="slide">
+        <h1>AI Essentials for Workflow Enhancement and Data Security</h1>
+        <p>Understanding Basic Capabilities and Protecting Company Data</p>
+        <img src="your-logo.png" alt="Laibyrinth Logo">
+        <img src="ai-data-security.jpg" alt="AI and Data Security Graphic">
+    </div>
+    <div class="navigation">
+        <button id="nextButton" onclick="window.location.href='slide2.html'">Next</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

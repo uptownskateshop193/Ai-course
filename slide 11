@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Essentials - Slide 11</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="slide">
+        <h1>Best Practices for Data Security with AI</h1>
+        <ul>
+            <li><strong>Data Minimization:</strong> Only use the data that is strictly necessary for the AI task.</li>
+            <li><strong>Anonymization and Pseudonymization:</strong> Remove or mask identifying information where possible.</li>
+            <li><strong>Access Controls:</strong> Limit access to AI systems and the data they use.</li>
+            <li><strong>Regular Audits:</strong> Monitor AI systems for unusual activity or potential vulnerabilities.</li>
+            <li><strong>Employee Training:</strong> Educate staff on responsible AI usage and data security protocols.</li>
+        </ul>
+        <img src="security-best-practices.png" alt="Security Best Practices Graphic">
+    </div>
+    <div class="navigation">
+        <button onclick="window.location.href='slide12.html'">Next</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

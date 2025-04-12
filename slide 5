@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Essentials - Slide 5</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="slide">
+        <h1>Natural Language Processing (NLP): Understanding Language</h1>
+        <p>NLP enables computers to understand, interpret, and generate human language.</p>
+        <p><strong>Examples:</strong> Chatbots, voice assistants, translation tools.</p>
+        <p><strong>Benefit for Workflows:</strong> Automating customer service, analyzing text data, summarizing information.</p>
+        <img src="nlp.png" alt="Natural Language Processing Graphic">
+    </div>
+    <div class="navigation">
+        <button onclick="window.location.href='slide6.html'">Next</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

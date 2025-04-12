@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Essentials - Slide 10</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="slide">
+        <h1>Understanding AI and Data Security Risks</h1>
+        <ul>
+            <li><strong>Data Breaches:</strong> AI systems can be targets for cyberattacks.</li>
+            <li><strong>Bias in AI:</strong> AI models trained on biased data can lead to unfair or discriminatory outcomes.</li>
+            <li><strong>Accidental Data Exposure:</strong> Improperly configured AI systems can inadvertently expose sensitive data.</li>
+            <li><strong>Lack of Transparency:</strong> Understanding how AI makes decisions can be challenging, posing security risks if vulnerabilities are hidden.</li>
+        </ul>
+    </div>
+    <div class="navigation">
+        <button onclick="window.location.href='slide11.html'">Next</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

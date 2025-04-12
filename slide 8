@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Essentials - Slide 8</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="slide">
+        <h1>AI for Data Analysis and Insights</h1>
+        <p>AI can analyze large datasets to identify trends, patterns, and insights that humans might miss.</p>
+        <p><strong>Examples:</strong> Sales forecasting, customer behavior analysis, risk assessment.</p>
+        <p><strong>Benefit for Workflows:</strong> Data-driven decision-making, improved forecasting, better understanding of customers.</p>
+        <img src="ai-data-analysis.png" alt="AI Data Analysis Graphic">
+    </div>
+    <div class="navigation">
+        <button onclick="window.location.href='slide9.html'">Next</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

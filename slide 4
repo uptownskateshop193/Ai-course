@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Essentials - Slide 4</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="slide">
+        <h1>Machine Learning: Learning from Data</h1>
+        <p>Machine learning (ML) is a type of AI where systems learn from data without being explicitly programmed.</p>
+        <p><strong>Example:</strong> Like a spam filter learning to identify junk email based on patterns.</p>
+        <p><strong>Benefit for Workflows:</strong> Automating repetitive tasks, making predictions.</p>
+        <img src="machine-learning.png" alt="Machine Learning Graphic">
+    </div>
+    <div class="navigation">
+        <button onclick="window.location.href='slide5.html'">Next</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
